@@ -6,9 +6,6 @@ gen
 .pmd
 default.properties
 lint.xml
-tweedle-app/proguard_logs/dump.txt
-tweedle-app/proguard_logs/seeds.txt
-tweedle-app/proguard_logs/usage.txt
 *.iml
 *.ipr
 *.iws
@@ -18,3 +15,6 @@ out
 gen-external-apklibs
 classes
 com_crashlytics_export_strings.xml
+.gradle
+local.properties
+build
